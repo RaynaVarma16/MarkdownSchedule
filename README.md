@@ -2,8 +2,8 @@
 
 ---
 title: "R Markdown Schedule"
-author: ""
-date: ""
+author: "Rayna Varma"
+date: "9/12/23"
 output: html_notebook
 ---
 
